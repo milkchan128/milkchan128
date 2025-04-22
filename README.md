@@ -36,7 +36,7 @@
 
 ## 📫 Contact
 
-- 📧 Email: `support@mlkc.kr` ← (수정 필요!)
+- 📧 Email: `support@mlkc.kr`
 - 🌐 Website: [mlkc.kr](https://mlkc.kr)
 - 💬 Discord: `milkchan128`
 - 🧠 언제든지 협업 제안이나 질문 환영이에요!
