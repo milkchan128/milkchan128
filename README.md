@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/logo.png" width="120">
+<img src="https://raw.githubusercontent.com/milkchan128/milkchan128/main/assets/logo.png" width="120">
 
 # MLKC Studio
 
@@ -84,9 +84,9 @@ We build projects around:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=milkchan128&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkchan128&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
