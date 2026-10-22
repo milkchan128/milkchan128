@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/milkchan128/milkchan128/main/assets/logo.png" width="110" alt="MLKC Studio 로고" />
+<img src="https://cdn.mlkc.kr/mlkclogo.png" width="110" alt="MLKC Studio 로고" />
 
 # 안녕하세요, 신주호(SIN JU HO)입니다. 👋
 
