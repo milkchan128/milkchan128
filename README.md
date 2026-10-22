@@ -57,10 +57,7 @@ GitHub: milkchan128
 <img src="https://github-readme-stats.vercel.app/api?username=milkchan128&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=kr" height="170" alt="GitHub 커밋, PR, 이슈, 스타 통계" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkchan128&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=kr" height="170" alt="GitHub 저장소별 사용 언어 통계" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=milkchan128&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub 기여 활동 그래프" />
-
 [![팔로워](https://img.shields.io/github/followers/milkchan128?style=flat-square&logo=github&label=Followers)](https://github.com/milkchan128?tab=followers)
-![프로필 조회수](https://komarev.com/ghpvc/?username=milkchan128&style=flat-square&color=7c3aed&label=Profile+views)
 
 </div>
 
@@ -70,11 +67,10 @@ GitHub: milkchan128
 
 | 프로젝트 | 소개 |
 | :--- | :--- |
-| [MLKC Studio](https://mlkc.studio) | 개인 개발 스튜디오 및 소프트웨어 프로젝트 |
-| [mlkc.kr](https://mlkc.kr) | 개인 웹사이트와 개발 기록 |
-| [auto-announcements-bot](https://github.com/milkchan128/auto-announcements-bot) | Discord 공지 자동화 봇 저장소 |
-| [milkportfolio](https://github.com/milkchan128/milkportfolio) | 포트폴리오 프로젝트 저장소 |
-| [claw-code](https://github.com/milkchan128/claw-code) | 코드 관련 공개 저장소 |
+| [밀튜디오 mlkc-studio](https://mlkc.studio) | 개인개발 스튜디오 공식 홈페이지 |
+| [밀튜디오 개발허브 mlkc.kr](https://mlkc.kr) | 개인 개발 플랫폼 및 개발허브 |
+| [밀튜디오 헬프센터 helpcenter](https://support.mlkc.kr) | 밀튜디오 헬프센터 |
+| [MLKC 계정 SSO](https://account.mlkc.kr/) | 밀튜디오 계정 SSO 연동 |
 
 ## 🔍 관심 분야
 
